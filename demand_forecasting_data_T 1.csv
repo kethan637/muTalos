@@ -1,0 +1,106 @@
+Product Category,Distribution Channel,Date,Sales Quantity, Price ,Promotion Type,Temperature (F),Day of Week,Holiday
+Shoes,In-Store,1/1/2023,50, $50.00 ,Sale,68,Monday,New Year's Day
+Heels,Online,1/1/2023,30, $80.00 ,Sale,68,Monday,New Year's Day
+Flats,Retailer (Myntra),1/1/2023,20, $30.00 ,Dicount,68,Monday,New Year's Day
+Shoes,In-Store,1/2/2023,60, $50.00 ,Sale,72,Tuesday,None
+Heels,Online,1/2/2023,40, $80.00 ,Sale,72,Tuesday,None
+Flats,Retailer (Myntra),1/2/2023,25, $30.00 ,Discount,72,Tuesday,None
+Shoes,In-Store,1/3/2023,55, $50.00 ,Sale,70,Wednesday,None
+Heels,Online,1/3/2023,35, $80.00 ,Sale,70,Wednesday,None
+Flats,Retailer (Myntra),1/3/2023,30, $30.00 ,Discount,70,Wednesday,None
+Shoes,In-Store,1/4/2023,65, $50.00 ,Sale,75,Thursday,None
+Heels,Online,1/4/2023,45, $80.00 ,Discount,75,Thursday,None
+Flats,Retailer (Myntra),1/4/2023,35, $30.00 ,None,75,Thursday,None
+Shoes,In-Store,1/5/2023,70, $50.00 ,None,80,Friday,None
+Heels,Online,1/5/2023,50, $80.00 ,Discount,80,Friday,None
+Flats,Retailer (Myntra),1/5/2023,40, $30.00 ,None,80,Friday,None
+Shoes,Retailer (AJIO),1/6/2023,75, $50.00 ,None,82,Saturday,None
+Heels,Retailer (AJIO),1/6/2023,55, $80.00 ,Discount,82,Saturday,None
+Flats,Retailer (AJIO),1/6/2023,45, $30.00 ,None,82,Saturday,None
+Shoes,Retailer (AJIO),1/7/2023,80, $50.00 ,None,78,Sunday,None
+Heels,Retailer (AJIO),1/7/2023,60, $80.00 ,Discount,78,Sunday,None
+Flats,Retailer (AJIO),1/7/2023,50, $30.00 ,None,78,Sunday,None
+Shoes,Retailer (AJIO),1/8/2023,85, $50.00 ,None,75,Monday,None
+Heels,Retailer (AJIO),1/8/2023,65, $80.00 ,Discount,75,Monday,None
+Flats,Retailer (AJIO),1/8/2023,55, $30.00 ,None,75,Monday,None
+Shoes,Retailer (AJIO),1/9/2023,90, $50.00 ,None,72,Tuesday,None
+Heels,Retailer (AJIO),1/9/2023,70, $80.00 ,Discount,72,Tuesday,None
+Flats,Retailer (AJIO),1/9/2023,60, $30.00 ,None,72,Tuesday,None
+Shoes,Retailer (AJIO),1/10/2023,95, $50.00 ,None,70,Wednesday,None
+Heels,Retailer (AJIO),1/10/2023,75, $80.00 ,Discount,70,Wednesday,None
+Flats,Retailer (AJIO),1/10/2023,65, $30.00 ,None,70,Wednesday,None
+Shoes,Retailer,1/11/2023,100, $50.00 ,None,68,Thursday,None
+Heels,Retailer,1/11/2023,80, $80.00 ,Discount,68,Thursday,None
+Flats,Retailer,1/11/2023,70, $30.00 ,None,68,Thursday,None
+Shoes,Retailer,1/12/2023,105, $50.00 ,None,65,Friday,None
+Heels,Retailer,1/12/2023,85, $80.00 ,Discount,65,Friday,None
+Flats,Retailer,1/12/2023,75, $30.00 ,None,65,Friday,None
+Shoes,Retailer,1/13/2023,110, $50.00 ,None,63,Saturday,None
+Bags,Retailer,1/13/2023,90, $80.00 ,Discount,63,Saturday,None
+Flats,Retailer,1/13/2023,80, $30.00 ,None,63,Saturday,None
+Shoes,Retailer,1/14/2023,115, $50.00 ,None,60,Sunday,None
+Heels,Retailer,1/14/2023,95, $80.00 ,Discount,60,Sunday,None
+Flats,Retailer,1/14/2023,85, $30.00 ,None,60,Sunday,None
+Shoes,Retailer,1/15/2023,120, $50.00 ,None,58,Monday,None
+Heels,Retailer,1/15/2023,100, $80.00 ,Discount,58,Monday,None
+Flats,Retailer,1/15/2023,90, $30.00 ,None,58,Monday,None
+Shoes,Online,1/16/2023,125, $50.00 ,None,55,Tuesday,None
+Heels,Online,1/16/2023,105, $80.00 ,Discount,55,Tuesday,None
+Flats,Online,1/16/2023,95, $30.00 ,None,55,Tuesday,None
+Shoes,Online,1/17/2023,130, $50.00 ,None,52,Wednesday,None
+Heels,Online,1/17/2023,110, $80.00 ,Discount,52,Wednesday,None
+Flats,Online,1/17/2023,100, $30.00 ,None,52,Wednesday,None
+Shoes,Online,1/18/2023,135, $50.00 ,None,50,Thursday,None
+Heels,Online,1/18/2023,115, $80.00 ,Discount,50,Thursday,None
+Flats,Online,1/18/2023,105, $30.00 ,None,50,Thursday,None
+Shoes,Online,1/19/2023,140, $50.00 ,None,48,Friday,None
+Heels,Online,1/19/2023,120, $80.00 ,Discount,48,Friday,None
+Flats,Online,1/19/2023,110, $30.00 ,None,48,Friday,None
+Shoes,Online,1/20/2023,145, $50.00 ,None,46,Saturday,None
+Heels,Online,1/20/2023,125, $80.00 ,Discount,46,Saturday,None
+Flats,Online,1/20/2023,115, $30.00 ,None,46,Saturday,None
+Shoes,In-Store,1/21/2023,150, $50.00 ,None,45,Sunday,None
+Bags,In-Store,1/21/2023,130, $80.00 ,Discount,45,Sunday,None
+Flats,In-Store,1/21/2023,120, $30.00 ,None,45,Sunday,None
+Shoes,In-Store,1/22/2023,155, $50.00 ,None,44,Monday,None
+Heels,In-Store,1/22/2023,135, $80.00 ,Discount,44,Monday,None
+Flats,In-Store,1/22/2023,125, $30.00 ,None,44,Monday,None
+Shoes,In-Store,1/23/2023,160, $50.00 ,None,43,Tuesday,None
+Heels,In-Store,1/23/2023,140, $80.00 ,Discount,43,Tuesday,None
+Flats,In-Store,1/23/2023,130, $30.00 ,None,43,Tuesday,None
+Shoes,In-Store,1/24/2023,165, $50.00 ,None,42,Wednesday,None
+Heels,In-Store,1/24/2023,145, $80.00 ,Discount,42,Wednesday,None
+Flats,In-Store,1/24/2023,135, $30.00 ,None,42,Wednesday,None
+Shoes,In-Store,1/25/2023,170, $50.00 ,None,41,Thursday,None
+Heels,In-Store,1/25/2023,150, $80.00 ,Discount,41,Thursday,None
+Flats,In-Store,1/25/2023,140, $30.00 ,None,41,Thursday,None
+Heels,Online,1/26/2023,110, $80.00 ,None,40,Friday,None
+Heels,Online,1/27/2023,115, $80.00 ,None,39,Saturday,None
+Heels,Online,1/28/2023,120, $80.00 ,None,38,Sunday,None
+Heels,Online,1/29/2023,125, $80.00 ,None,37,Monday,None
+Heels,Online,1/30/2023,130, $80.00 ,None,36,Tuesday,None
+Heels,Online,1/31/2023,135, $80.00 ,None,35,Wednesday,None
+Heels,Online,2/1/2023,140, $80.00 ,None,34,Thursday,None
+Heels,Online,2/2/2023,145, $80.00 ,None,33,Friday,None
+Heels,Online,2/3/2023,150, $80.00 ,None,32,Saturday,None
+Heels,Online,2/4/2023,155, $80.00 ,None,31,Sunday,None
+Heels,Online,2/5/2023,160, $80.00 ,None,30,Monday,None
+Heels,Online,2/6/2023,165, $80.00 ,None,29,Tuesday,None
+Heels,Online,2/7/2023,170, $80.00 ,None,28,Wednesday,None
+Heels,Online,2/8/2023,175, $80.00 ,None,27,Thursday,None
+Heels,Online,2/9/2023,180, $80.00 ,None,26,Friday,None
+Heels,In-Store,2/10/2023,100, $90.00 ,Sale,70,Saturday,President's Day
+Heels,In-Store,2/11/2023,105, $90.00 ,Sale,68,Sunday,Valentine's Day
+Heels,In-Store,2/12/2023,110, $90.00 ,Sale,65,Monday,President's Day
+Heels,In-Store,2/13/2023,115, $90.00 ,Sale,62,Tuesday,Valentine's Day
+Heels,In-Store,2/14/2023,120, $90.00 ,Sale,60,Wednesday,President's Day
+Heels,In-Store,2/15/2023,125, $90.00 ,Sale,58,Thursday,Valentine's Day
+Heels,In-Store,2/16/2023,130, $90.00 ,Sale,55,Friday,President's Day
+Heels,In-Store,2/17/2023,135, $90.00 ,Sale,52,Saturday,Valentine's Day
+Heels,In-Store,2/18/2023,140, $90.00 ,Sale,50,Sunday,President's Day
+Heels,In-Store,2/19/2023,145, $90.00 ,Sale,48,Monday,Valentine's Day
+Heels,In-Store,2/20/2023,150, $90.00 ,Sale,45,Tuesday,President's Day
+Heels,In-Store,2/21/2023,155, $90.00 ,Sale,42,Wednesday,Valentine's Day
+Heels,In-Store,2/22/2023,160, $90.00 ,Sale,40,Thursday,President's Day
+Heels,In-Store,2/23/2023,165, $90.00 ,Sale,38,Friday,Valentine's Day
+Heels,In-Store,2/24/2023,170, $90.00 ,Sale,35,Saturday,President's Day
